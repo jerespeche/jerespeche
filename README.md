@@ -1,12 +1,10 @@
-
-
 <h2>Hey! 👋</h2>
 
 ![grievous](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jerespeche.jerespeche)](https://github.com/jerespeche) [![GitHub followers](https://img.shields.io/github/followers/jerespeche.svg?style=social&label=Follow)](https://github.com/jerespeche?tab=followers)
+<!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jerespeche.jerespeche)](https://github.com/jerespeche) [![GitHub followers](https://img.shields.io/github/followers/jerespeche.svg?style=social&label=Follow)](https://github.com/jerespeche?tab=followers) -->
 
-*I'm Jeremías Espeche!*
+_I'm Jeremías Espeche!_
 
 <h2>About me:</h2>
 
@@ -14,15 +12,10 @@ I'm a junior developer from Buenos Aires, Argentina. I'm constantly learning how
 
 🎹 I'm a music aficionado and i like to collect albums (CDs, not vinyls... yet)
 
-
 <h2>💻 Currently learning:</h2>
 
 - Typescript
-- TDD
-
-
-
-
+- OOP
 
 <h2>📩 How to reach me:</h2>
 
