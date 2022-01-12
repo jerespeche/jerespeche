@@ -14,7 +14,7 @@ I'm a junior developer from Buenos Aires, Argentina. I'm constantly learning how
 
 <h2>💻 Currently learning:</h2>
 
-- Typescript
+- Java
 - OOP
 
 <h2>📩 How to reach me:</h2>
