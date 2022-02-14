@@ -11,7 +11,7 @@ _I'm Jeremías Espeche!_
 
 I'm a Full-Stack developer. I'm constantly learning how to make cleaner and better code.
 
-🎹 I'm a music aficionado and i like to collect albums (CDs, not vinyls... yet)
+🎹 I'm a music aficionado and i like to collect albums (CDs, not vinyls... yet).
 
 <h2>💻 Currently learning:</h2>
 
@@ -22,4 +22,4 @@ I'm a Full-Stack developer. I'm constantly learning how to make cleaner and bett
 
 <a href="mailto:jerespeche@hotmail.com">![jerespeche@hotmail.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jerespeche/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-From Argentina to the 🌎 with ❤️
+From Argentina to the 🌎 with ❤️.
