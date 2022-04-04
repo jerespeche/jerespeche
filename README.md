@@ -15,8 +15,8 @@ I'm a Full-Stack developer. I'm constantly learning how to make cleaner and bett
 
 <h2>💻 Currently learning:</h2>
 
-- Java
-- OOP
+- Design Patterns
+- To enjoy everyday
 
 <h2>📩 How to reach me:</h2>
 
