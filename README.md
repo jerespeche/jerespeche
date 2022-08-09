@@ -9,7 +9,7 @@ _I'm Jeremías Espeche!_
 
 <h2>About me:</h2>
 
-I'm a Full-Stack developer. I'm constantly learning how to make cleaner and better code.
+I'm a Back-End developer. I'm constantly learning how to make cleaner and better code.
 
 🎹 I'm a music aficionado and i like to collect albums (CDs, not vinyls... yet).
 
