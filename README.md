@@ -9,14 +9,7 @@ _I'm Jeremías Espeche!_
 
 <h2>About me:</h2>
 
-I'm a Back-End developer. I'm constantly learning how to make cleaner and better code.
-
-🎹 I'm a music aficionado and i like to collect albums (CDs, not vinyls... yet).
-
-<h2>💻 Currently learning:</h2>
-
-- Design Patterns
-- To enjoy everyday
+Backend engineer with a strong product mindset and leadership experience. I build scalable systems using Node.js, NestJS, and TypeScript, focusing on quality and long-term impact. I enjoy mentoring teams, improving processes, and ensuring that technology serves the product — not the other way around.
 
 <h2>📩 How to reach me:</h2>
 
